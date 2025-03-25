@@ -1,4 +1,4 @@
-- Hi 👋 , I’m Mounika G
+- Hi 👋 , I’m Mounika G.
 - 👀 I’m interested in exploring complex datasets to uncover actionable insights,leveraging data to solve real-world problems.
 - 🌱 I’m currently learning Scikit learn, Neural networks, Keras, Tensor flow, pyTorch, Computor vision
 - 👯 I’m looking to collaborate on data-driven projects to uncover insights and support strategic decisions, creating interactive dashboards.
